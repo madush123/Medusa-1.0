@@ -4,7 +4,7 @@ import viteLogo from '/vite.svg'
 import './App.css'
 import HomeSection from './components/Home/HomeSection/HomeSection'
 import AboutSection from './components/Home/AboutSection/AboutSection'
-import TimelineSection from './components/Home/TimelineSection'
+import TimelineSection from './components/Home/TimelineSection/TimelineSection'
 
 function App() {
    return (
