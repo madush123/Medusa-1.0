@@ -10,9 +10,7 @@ function App() {
    return (
     <>
       <div>
-        <HomeSection/>
-        <AboutSection/>
-        <TimelineSection/>
+        <h1>Repairs in Progress</h1>
       </div>
     </>
   );
